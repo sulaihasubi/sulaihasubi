@@ -9,7 +9,8 @@
 - 👯 I’m looking to collaboration with both internal and external partners
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Deep Learning and Machine Learning 
-- 📫 How to reach me: [LinkedIn - Sulaiha Subi](https://www.linkedin.com/in/sulaihasubi/) and you may [Email](ssulaihasubi@gmail.com) me or you may find me at my [Stack Overflow](https://stackoverflow.com/users/14798929/sulaiha-subi)
+- 📫 How to reach me: [LinkedIn - Sulaiha Subi](https://www.linkedin.com/in/sulaihasubi/) and you may [Email](ssulaihasubi@gmail.com) 
+- 🌎 How to catch up me on Social Media: You may catch me at [Stack Overflow](https://stackoverflow.com/users/14798929/sulaiha-subi), 
 - 😄 Pronouns: Sulaiha or Sue
 - ⚡ Fun fact: I'm capable of doing so many things and I'm a Taekwondo Black Belt.
 
