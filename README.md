@@ -11,7 +11,7 @@
 - 💬 Ask me about Deep Learning and Machine Learning 
 - 📫 How to reach me: [LinkedIn - Sulaiha Subi](https://www.linkedin.com/in/sulaihasubi/) and you may [Email](ssulaihasubi@gmail.com) me or you may find me at my [Stack Overflow](https://stackoverflow.com/users/14798929/sulaiha-subi)
 - 😄 Pronouns: Sulaiha or Sue
-- ⚡ Fun fact: I'm capable of doing so many things and I'm a Taekwondo Black belt.
+- ⚡ Fun fact: I'm capable of doing so many things and I'm a Taekwondo Black Belt.
 
 <div id="over" style="position:absolute; width:100%; height:100%">
 <img src = "https://github-readme-stats.vercel.app/api?username=sulaihasubi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
