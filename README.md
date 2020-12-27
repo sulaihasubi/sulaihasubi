@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaboration with both internal and external partners
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Deep Learning and Machine Learning 
-- 📫 How to reach me: [LinkedIn - Sulaiha Subi](https://www.linkedin.com/in/sulaihasubi/) and you may [Email](ssulaihasubi@gmail.com) 
+- 📫 How to reach me: [LinkedIn - Sulaiha Subi](https://www.linkedin.com/in/sulaihasubi/) and you may [Email](ssulaihasubi@gmail.com) me
 - 🌎 How to catch up me on Social Media: You may catch me at [Stack Overflow](https://stackoverflow.com/users/14798929/sulaiha-subi), [Kaggle](kaggle.com/sulaihasubi), [Medium](medium.com/@ssulaihasubi)
 - 🏆 Competitions that I currently active joining: [J’s Code Challenge Engineering in Japan](https://job.connectiu.com/en/plus/event/BE00020191/details/?ref=100460&utm_campaign=100460&utm_medium=display&utm_source=facebook), [4th Annual WiDS Datathone Challenge](https://www.widsconference.org/blog_archive/announcing-the-4th-annual-wids-datathon-challenge-identifying-diabetes-condition-to-provide-better-care-for-icu-patients?fbclid=IwAR3XL7BG9qUFNTWbcPzTtWCDZpnoNNosYLfEY5ApkxIIghEg0MBqOE0pMqY), and [Microsoft Azure Virtual Hackathon 2021](https://discover-ai-with-microsoft.agorize.com/en/challenges/msazurevirtualhack-2021)
 - 😄 Pronouns: Sulaiha or Sue
