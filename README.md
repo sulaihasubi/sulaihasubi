@@ -14,7 +14,9 @@
 - 🏆 Competitions that I currently active joining: [J’s Code Challenge Engineering in Japan](https://job.connectiu.com/en/plus/event/BE00020191/details/?ref=100460&utm_campaign=100460&utm_medium=display&utm_source=facebook), [4th Annual WiDS Datathone Challenge](https://www.widsconference.org/blog_archive/announcing-the-4th-annual-wids-datathon-challenge-identifying-diabetes-condition-to-provide-better-care-for-icu-patients?fbclid=IwAR3XL7BG9qUFNTWbcPzTtWCDZpnoNNosYLfEY5ApkxIIghEg0MBqOE0pMqY), and [Microsoft Azure Virtual Hackathon 2021](https://discover-ai-with-microsoft.agorize.com/en/challenges/msazurevirtualhack-2021)
 - 😄 Pronouns: Sulaiha or Sue
 - ⚡ Fun fact: I'm capable of doing so many things and I'm a Taekwondo Black Belt.
-- 🌎 My Portfolio: [Sulaiha Subi](https://sulaihasubi.github.io/)
+- 👩‍💻 My Portfolio: [Sulaiha Subi](https://sulaihasubi.github.io/)
+- 🧕 My CV: [Sulaiha Subi](https://drive.google.com/file/d/1lmJwpswf0IWpDXlf-cO8dfFVcQZERmI0/view?usp=sharing) 
+
 
 <div id="over" style="position:absolute; width:100%; height:100%">
 <img src = "https://github-readme-stats.vercel.app/api?username=sulaihasubi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
