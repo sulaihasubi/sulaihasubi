@@ -14,7 +14,7 @@
 - 😄 Pronouns: Sulaiha or Sue
 - ⚡ Fun fact: Taekwondo Black Belt 1st Dan
 - 👩‍💻 My Portfolio: [Sulaiha Subi](https://sulaihasubi.github.io/)
-- 🧕 My CV: [Sulaiha Subi](https://drive.google.com/file/d/1IB-uKPZiUwemx10jrcN5PhdISWEwIeET/view) 
+- 🧕 My CV: [Sulaiha Subi](hhttps://drive.google.com/file/d/12svKHPAVarrgaRVOuwWeLRZ-O-Tp4oeu/view?usp=sharing) 
 
 
 <div id="over" style="position:absolute; width:200%; height:100%">
