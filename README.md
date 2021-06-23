@@ -4,9 +4,9 @@
 **sulaihasubi/sulaihasubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on a Deep Learning Infrastructure Development Apprenticeship Project, [Terra Weather](http://terra-weather.com/)([AI4Impact](https://ai4impact.org/)) 
-- 🌱 I’m currently learning more about Back End Developement and Deep Learning in Computer Vision
-- 🤔 I’m looking for help with Data Science Enthusiast
+- 🔭 I’m a Data Scientist and currently working on for NLP in Oil and Gas
+- 🌱 I’m currently learning more about Data Science, Artificial Intelligence, Machine Learning, Deep Learning (Computer Vision And NLP)
+- 🤔 I currently active in Contributing Writing about Data Science Topics
 - 💬 Ask me about Deep Learning and Machine Learning (Computer Vision)
 - 📫 How to reach me: [LinkedIn - Sulaiha Subi](https://www.linkedin.com/in/sulaihasubi/) and you may [Email](ssulaihasubi@gmail.com) me
 - 🌎 How to catch up me on Social Media: You may catch me at [Stack Overflow](https://stackoverflow.com/users/14798929/sulaiha-subi), [Kaggle](http://kaggle.com/sulaihasubi), [Medium](http://medium.com/@ssulaihasubi)
