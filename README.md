@@ -1,4 +1,6 @@
 ### Hola! I'm Sulaiha Subi, you may call me Sue 👋
+## Find out more about me by visiting my <a href="https://sulaihasubi.github.io/about/">Portfolio</a>
+
 
 <!--
 **sulaihasubi/sulaihasubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
