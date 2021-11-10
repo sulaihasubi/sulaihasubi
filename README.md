@@ -1,5 +1,5 @@
 ## Hola! I'm Sulaiha Subi, you may call me Sue 👋
-### Find out more about me by visiting my <a href="https://sulaihasubi.github.io">Portfolio</a> 😊
+### Find out more about my project & what I am doing by visiting my <a href="https://sulaihasubi.github.io">Portfolio</a> 👩🏻‍💻
 
 
 <!--
