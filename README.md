@@ -8,9 +8,18 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulaihasubi&layout=compact)](https://github.com/sulaihasubi/github-readme-stats)
 
+<!-- [![Sulaiha Subi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sulaihasubi)](https://github.com/sulaihasubi/github-readme-stats) -->
 
 ![Sulaiha Subi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulaihasubi&show_icons=true)
 
+
+
+<!-- <a href="https://github.com/sulaihasubi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaihasubi&layout=compact" />
+</a>
+<a href="https://github.com/sulaihasubi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sulaihasubi&show_icons=true" /> -->
+</a>
 
 
 
