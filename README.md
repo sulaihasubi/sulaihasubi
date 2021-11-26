@@ -1,5 +1,5 @@
 ## Hola! I'm Sulaiha Subi, you may call me Sue 👋
-### Find out more about my project & what I am doing by visiting my <a href="https://sulaihasubi.github.io">Portfolio</a> 👩🏻‍💻
+### Visit my <a href="https://sulaihasubi.github.io">Portfolio</a> to know more about my activities!👩🏻‍💻
 
 
 <!--
@@ -13,7 +13,8 @@
 <!-- [![Sulaiha Subi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sulaihasubi)](https://github.com/sulaihasubi/github-readme-stats) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulaihasubi&langs_count=8)](https://github.com/sulaihasubi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- <a href="https://github.com/sulaihasubi/github-readme-stats">
