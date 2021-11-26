@@ -8,13 +8,15 @@
 
 <!-- [![Sulaiha Subi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sulaihasubi)](https://github.com/sulaihasubi/github-readme-stats) -->
 
-![Sulaiha Subi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulaihasubi&show_icons=true)
+![Sulaiha Subi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulaihasubi&show_icons=true&include_all_commits)
+
+
 
 <!-- [![Sulaiha Subi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sulaihasubi)](https://github.com/sulaihasubi/github-readme-stats) -->
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- <a href="https://github.com/sulaihasubi/github-readme-stats">
