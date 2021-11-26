@@ -9,7 +9,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulaihasubi&layout=compact)](https://github.com/sulaihasubi/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sulaihasubi)](https://github.com/sulaihasubi/github-readme-stats)
+![Sulaiha Subi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulaihasubi&show_icons=true)
+
 
 
 
