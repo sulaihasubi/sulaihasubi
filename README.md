@@ -11,6 +11,9 @@ Cheers! 🥂
   <img src="https://github-readme-stats.vercel.app/api?username=sulaihasubi&show_icons=true&include_all_commits">
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sulaihasubi)](https://github.com/sulaihasubi/github-profile-trophy)
+
+
 <h2 align="center">🖥️ Programming Languages</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaihasubi&layout=compact&langs_count=10&card_width=445">
