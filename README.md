@@ -3,7 +3,7 @@ By displaying my works to show everyone how much I have improved within the past
 
 Cheers! 🥂
 
-<h3 align="center">Data Scientist</h3>
+<h2 align="center">Data Scientist</h2>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulaihasubi&theme=gruvbox&margin-w=15&&title=MultiLanguage,Organizations,Commit,Followers,Repositories," alt="sulaihasubi" /></a>
