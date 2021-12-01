@@ -22,7 +22,7 @@ Cheers! 🥂
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaihasubi&layout=compact&langs_count=10&card_width=445">
 </p>
 
-<h2 align="center">⏰ Coding Time Spend</h2>
+<h2 align="center">⏰ Time Spend</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sulaihasubi&layout=compact&langs_count=10&?style=flat-square">
 </p>
