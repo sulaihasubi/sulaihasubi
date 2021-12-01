@@ -3,6 +3,12 @@ By displaying my works to show everyone how much I have improved within the past
 
 Cheers! 🥂
 
+<h3 align="center">Data Scientist</h3>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulaihasubi&theme=gruvbox&margin-w=15&&title=MultiLanguage,Organizations,Commit,Followers,Repositories," alt="sulaihasubi" /></a>
+</p>
+
 <!--
 **sulaihasubi/sulaihasubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -10,9 +16,6 @@ Cheers! 🥂
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sulaihasubi&show_icons=true&include_all_commits">
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sulaihasubi)](https://github.com/sulaihasubi/github-profile-trophy)
-
 
 <h2 align="center">🖥️ Programming Languages</h2>
 <p align="center">
