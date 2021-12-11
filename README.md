@@ -2,20 +2,19 @@
 By displaying my works to show everyone how much I have improved within the past few months, and prove that I have in fact met my goals that I had set for myself this quarter please learn, read, and study about me by visiting my <a href="https://sulaihasubi.github.io">Portfolio</a> 👩🏻‍💻✨
 
 Cheers! 🥂
+<!-- 
+## 👩🏻‍💻 [GitHub Stats Visualization](https://github.com/sulaihasubi/github-stats) -->
+<h2 align="center">👩🏻‍💻 My GitHub Stats Visualization</h2>
 
-## 👩🏻‍💻 [GitHub Stats Visualization](https://github.com/sulaihasubi/github-stats)
-
-<a href="https://github.com/sulaihasubi/github-stats">
-
+<a align="center" href="https://github.com/sulaihasubi/github-stats">
+  
 ![](https://github.com/sulaihasubi/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/sulaihasubi/github-stats/blob/master/generated/languages.svg)
-
+  
 </a>
 
 <h2 align="center">👩🏻‍🔬 I'm a Data Scientist</h2>
-
 <p align="center">
-<!--   <a href="https://github.com/sulaihasubi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulaihasubi&theme=gruvbox&margin-w=15&title=MultiLanguage,Organizations,Commit,Followers,Repositories" alt="sulaihasubi" /></a> -->
   <a href="https://github.com/sulaihasubi/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=sulaihasubi&column=8&theme=gruvbox&margin-w=15&no-frame=true"/>
 </p>
