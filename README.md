@@ -3,31 +3,14 @@ By displaying my works to show everyone how much I have improved within the past
 
 Cheers! 🥂
 
+## [GitHub Stats Visualization](https://github.com/sulaihasubi/github-stats)
 
-   
-<!-- <p align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
-  <h2 align="center">GitHub Profile Trophy</h2>
-</p>
-<p align="center">
-  <a href="https://github.com/sulaihasubi/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/sulaihasubi/github-profile-trophy"/> 
-  </a>
-  <a href="https://github.com/sulaihasubi/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/sulaihasubi/github-profile-trophy"/> 
-  </a>  
-  <a href="https://github.com/sulaihasubi/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/sulaihasubi/github-profile-trophy"/> 
-  </a>
-    <a href="https://github.com/sulaihasubi/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/sulaihasubi/github-profile-trophy"/> 
-  </a>
-  </a>
-    <a href="https://github.com/sponsors/ryo-ma">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
-  </a>  
-</p> -->
+<a href="https://github.com/sulaihasubi/github-stats">
 
+![](https://github.com/sulaihasubi/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/sulaihasubi/github-stats/blob/master/generated/languages.svg)
+
+</a>
 
 <h2 align="center">👩🏻‍🔬 Data Scientist</h2>
 
@@ -40,14 +23,14 @@ Cheers! 🥂
 <!--
 **sulaihasubi/sulaihasubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h2 align="center">✔️ Github Stats</h2>
+<!-- <h2 align="center">✔️ Github Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sulaihasubi&show_icons=true&include_all_commits">
 </p>
 
 <h2 align="center">🖥️ Programming Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaihasubi&layout=compact&langs_count=10&card_width=445">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaihasubi&layout=compact&langs_count=10&card_width=445"> -->
 </p>
 
 <!-- <h2 align="center">⏰ Time Spend</h2>
