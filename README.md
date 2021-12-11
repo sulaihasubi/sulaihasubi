@@ -3,7 +3,7 @@ By displaying my works to show everyone how much I have improved within the past
 
 Cheers! 🥂
 
-## [GitHub Stats Visualization](https://github.com/sulaihasubi/github-stats)
+## 👩🏻‍💻 [GitHub Stats Visualization](https://github.com/sulaihasubi/github-stats)
 
 <a href="https://github.com/sulaihasubi/github-stats">
 
