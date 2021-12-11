@@ -3,10 +3,38 @@ By displaying my works to show everyone how much I have improved within the past
 
 Cheers! 🥂
 
+
+   
+<!-- <p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align="center">GitHub Profile Trophy</h2>
+</p>
+<p align="center">
+  <a href="https://github.com/sulaihasubi/github-profile-trophy/issues">
+    <img src="https://img.shields.io/github/issues/sulaihasubi/github-profile-trophy"/> 
+  </a>
+  <a href="https://github.com/sulaihasubi/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/sulaihasubi/github-profile-trophy"/> 
+  </a>  
+  <a href="https://github.com/sulaihasubi/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/sulaihasubi/github-profile-trophy"/> 
+  </a>
+    <a href="https://github.com/sulaihasubi/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/sulaihasubi/github-profile-trophy"/> 
+  </a>
+  </a>
+    <a href="https://github.com/sponsors/ryo-ma">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
+  </a>  
+</p> -->
+
+
 <h2 align="center">👩🏻‍🔬 Data Scientist</h2>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulaihasubi&theme=gruvbox&margin-w=15&&title=MultiLanguage,Organizations,Commit,Followers,Repositories," alt="sulaihasubi" /></a>
+<!--   <a href="https://github.com/sulaihasubi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulaihasubi&theme=gruvbox&margin-w=15&title=MultiLanguage,Organizations,Commit,Followers,Repositories" alt="sulaihasubi" /></a> -->
+  <a href="https://github.com/sulaihasubi/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=sulaihasubi&column=8&theme=gruvbox&margin-w=15&no-frame=true"/>
 </p>
 
 <!--
