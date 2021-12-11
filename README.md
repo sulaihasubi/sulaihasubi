@@ -12,7 +12,7 @@ Cheers! 🥂
 
 </a>
 
-<h2 align="center">👩🏻‍🔬 Data Scientist</h2>
+<h2 align="center">👩🏻‍🔬 I am a Data Scientist</h2>
 
 <p align="center">
 <!--   <a href="https://github.com/sulaihasubi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulaihasubi&theme=gruvbox&margin-w=15&title=MultiLanguage,Organizations,Commit,Followers,Repositories" alt="sulaihasubi" /></a> -->
