@@ -52,11 +52,11 @@ Cheers! ☕
 
 
 <!--  Side by Side Setting -->
-<!-- <a href="https://github-readme-stats.vercel.app/api?username=sulaihasubi&show_icons=true&include_all_commits">
+<a href="https://github-readme-stats.vercel.app/api?username=sulaihasubi&show_icons=true&include_all_commits">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sulaihasubi&show_icons=true&include_all_commits" />
 </a>
 <a href="https://github.com/sulaihasubi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaihasubi&layout=compact&langs_count=9&card_width=400"/>
 </a>
- -->
+
 <!--  Side by Side Setting -->
