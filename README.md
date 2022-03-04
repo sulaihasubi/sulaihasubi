@@ -27,7 +27,6 @@ Cheers! ☕
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ssulaihasubi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ssulaihasubi/0" alt="Recent Article 0">
 </p>
 
-
 <!--
 **sulaihasubi/sulaihasubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
