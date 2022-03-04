@@ -23,7 +23,9 @@ Cheers! ☕
 </p>
   
 <h2 align="center">📰 Recent Article in Medium</h2>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ssulaihasubi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ssulaihasubi/0" alt="Recent Article 0">
+<p align="center">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ssulaihasubi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ssulaihasubi/0" alt="Recent Article 0">
+</p>
 
 
 <!--
