@@ -7,7 +7,8 @@ Cheers! ☕
 
 <!-- 
 ## 👩🏻‍💻 [GitHub Stats Visualization](https://github.com/sulaihasubi/github-stats) -->
-<h2 align="center">👩🏻‍💻 My GitHub Stats Visualization</h2>
+<h2 align="center">👩🏻‍🔬 I'm a Data Scientist</h2>
+<!-- <h2 align="center">👩🏻‍💻 My GitHub Stats Visualization</h2> -->
 
 <a align="center" href="https://github.com/sulaihasubi/github-stats">
   
@@ -16,16 +17,16 @@ Cheers! ☕
   
 </a>
 
-<h2 align="center">👩🏻‍🔬 I'm a Data Scientist</h2>
+<!-- <h2 align="center">👩🏻‍🔬 I'm a Data Scientist</h2>
 <p align="center">
   <a href="https://github.com/sulaihasubi/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=sulaihasubi&column=8&theme=gruvbox&margin-w=15&no-frame=true"/>
-</p>
+</p> -->
   
-<h2 align="center">📰 Recent Article in Medium</h2>
+<!-- <h2 align="center">📰 Recent Article in Medium</h2>
 <p align="center">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ssulaihasubi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ssulaihasubi/0" alt="Recent Article 0">
-</p>
+</p> -->
 
 <!--
 **sulaihasubi/sulaihasubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
